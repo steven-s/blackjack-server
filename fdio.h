@@ -1,7 +1,3 @@
-/* Steven Samson
- * CSCI 1840
- */
-
 #ifndef FDIO_H
 #define FDIO_H
 

@@ -1,7 +1,3 @@
-/* Steven Samson
- * CSCI 1840
- */
-
 #include "card.h"
 #include "fdio.h"
 

@@ -1,7 +1,3 @@
-/* Steven Samson
- * CIST 1840
- */
-
 #include <stdlib.h>
 
 #include "cardq.h"

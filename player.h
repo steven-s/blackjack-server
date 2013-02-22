@@ -1,7 +1,3 @@
-/* Steven Samson
- * CSCI 1840
- */
-
 #ifndef PLAYER_H
 #define PLAYER_H
 

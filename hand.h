@@ -1,7 +1,3 @@
-/* Steven Samson
- * CIST 1840
- */
-
 #ifndef HAND_H
 #define HAND_H
 

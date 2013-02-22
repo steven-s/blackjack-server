@@ -1,7 +1,3 @@
-/* Steven Samson
- * CSCI 1840
- */
-
 #ifndef SHOE_H
 #define SHOE_H
 

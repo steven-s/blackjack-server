@@ -1,7 +1,3 @@
-/* Steven Samson
- * CIST 1840
- */
-
 /* A queue structure modified to hold cards */
 
 #ifndef CARDQ_H

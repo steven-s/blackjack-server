@@ -1,7 +1,3 @@
-/* Steven Samson
- * CSCI 1840
- */
-
 #include <stdlib.h>
 #include <time.h>
 #include "shoe.h"

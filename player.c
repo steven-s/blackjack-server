@@ -1,7 +1,3 @@
-/* Steven Samson
- * CSCI 1840
- */
-
 #include "player.h"
 #include "shoe.h"
 #include "hand.h"

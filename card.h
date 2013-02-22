@@ -1,7 +1,3 @@
-/* Steven Samson
- * CSCI 1840
- */
-
 #ifndef CARD_H
 #define CARD_H
 
